@@ -1,6 +1,6 @@
 # Flutter Examples
 
-## The examples for Flutter leanr that have Video in Vietnamese. 
+## The examples for Flutter leaners that have Video in Vietnamese. 
 
 ## Với mong muốn các bạn làm quen với Flutter nhanh nhất, chúng tôi sẽ cố gắng chia sẽ và mong nhận được phản hồi từ các bạn. Học Flutter qua ví dụ
 
