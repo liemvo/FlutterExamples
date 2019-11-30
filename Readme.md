@@ -7,4 +7,4 @@
 [Play list](https://www.youtube.com/playlist?list=PLM4bSt3Dxgu0UTHB7hoiH10zueylcyib3)
 
 1. [Ví Dụ 1 Material, AppBar, Text, Thememe, Stateless](flutter_hello) [Video](https://www.youtube.com/watch?v=DqCSFxe_TsI)
-1. [Ví Dụ 2 Column, RaiseButton, Icon and Statefull](flutter_statefull) [Video](https://youtu.be/V33lqKAStH4)
+1. [Ví Dụ 2 Column, RaiseButton, Icon and Stateful](flutter_stateful) [Video](https://youtu.be/V33lqKAStH4)
