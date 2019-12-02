@@ -8,4 +8,4 @@
 
 1. [Ví Dụ 1 Material, AppBar, Text, Thememe, Stateless](flutter_hello) [Video](https://www.youtube.com/watch?v=NH_uMfhXHs4)
 2. [Ví Dụ 2 Column, RaiseButton, Icon and Stateful](flutter_stateful) [Video](https://www.youtube.com/watch?v=XTntFVnb3n8)
-3. [Ví Dụ 3 Các nút bấm phần 1 (Flatbutton, RaisedButton, and DropDownButton)](flutter_vidu3) [Video](https://www.youtube.com/watch?v=6PYA7C_jsCg&list=PLV5fsKZCPJNsq2owQp1qLrlHNHNbVveAi&index=5&t=0s)
+3. [Ví Dụ 3 Các nút bấm phần 1 (Flatbutton, RaisedButton, and DropDownButton)](flutter_vidu3) [Video](https://www.youtube.com/watch?v=6PYA7C_jsCg&t=7s)
