@@ -14,7 +14,9 @@ class AlignLayoutApp extends StatelessWidget {
           height: 120,
           color: Colors.blue[800],
           child: Align(
-            alignment: FractionalOffset(0.2, 0.8),
+            alignment: Alignment.topLeft,
+            // alignment: Alignmnet(0.2, 0.8),
+            // alignment: FractionalOffset(0.2, 0.8),
             child: Icon(Icons.map, color: Colors.red, size: 60)
           ),
         ),
