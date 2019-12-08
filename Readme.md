@@ -10,3 +10,4 @@
 2. [Ví Dụ 2 Column, RaiseButton, Icon and Stateful](flutter_stateful) [Video](https://www.youtube.com/watch?v=XTntFVnb3n8)
 3. [Ví Dụ 3 Các nút bấm phần 1 (Flatbutton, RaisedButton, and DropDownButton)](flutter_vidu3) [Video](https://www.youtube.com/watch?v=6PYA7C_jsCg&t=7s)
 4. [Ví Dụ 3 Các nút bấm phần 2 (FloatingActionButton va IconButton)](flutter_vidu3) [Video 1](https://www.youtube.com/watch?v=BDeT6FbK5Co)[Video 2](https://www.youtube.com/watch?v=9ul5ScqPflg)
+5. [Vi du Align layout widget](flutter_layouts/lib/singlechild/align_layout.dart) -> [Video Align](https://www.youtube.com/watch?v=NztPL8a--rw)
